@@ -1,1 +1,2 @@
-cd /root/alx-system_engineering-devops/0x00-shell_basics/
+#!/bin/bash
+path=$(realpath README.md)
